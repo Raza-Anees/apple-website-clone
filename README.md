@@ -63,7 +63,7 @@ To start the development server, run:
     npm run dev
     ```
 
-Open your browser and go to `http://localhost:3000` to view the project.
+Open your browser and go to `http://localhost:5173` to view the project.
 
 To build the project for production, run:
 
